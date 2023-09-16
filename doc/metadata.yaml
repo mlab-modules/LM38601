@@ -17,6 +17,7 @@ images:
 - doc/html/Pictures/image003.gif
 - doc/html/Pictures/image002.gif
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
