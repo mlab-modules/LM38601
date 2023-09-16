@@ -1,21 +1,24 @@
-description: null
+description: ' Module of small universal audio amplifier with LM386 can be used for
+  receivers and other devices requiring low output power. The amplifier is equipped
+  with jumpers for setting of parameters (gain and frequency) so that it can be used
+  more universally. '
 github_branch: LM38601A
 github_repo: LM38601
 github_url: https://github.com/mlab-modules/LM38601
 homepage: false
 images:
-- doc/img/LM38601A_small.jpg
-- doc/src/03.jpg
-- doc/src/02.jpg
-- doc/src/01.jpg
-- doc/src/04.jpg
 - doc/src/Modul.jpg
-- doc/html/Pictures/image004.jpg
+- doc/src/04.jpg
+- doc/src/02.jpg
+- doc/src/03.jpg
+- doc/src/01.jpg
+- doc/img/LM38601A_small.jpg
 - doc/html/Pictures/image005.jpg
 - doc/html/Pictures/image001.jpg
+- doc/html/Pictures/image004.jpg
 - doc/img/LM38601A_QRcode.png
-- doc/html/Pictures/image003.gif
 - doc/html/Pictures/image002.gif
+- doc/html/Pictures/image003.gif
 mark: 50
 status: 0
 tags:

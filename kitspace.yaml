@@ -5,4 +5,6 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/LM38601
-summary: null
+summary: ' Module of small universal audio amplifier with LM386 can be used for receivers
+  and other devices requiring low output power. The amplifier is equipped with jumpers
+  for setting of parameters (gain and frequency) so that it can be used more universally. '
